@@ -8,6 +8,6 @@ eureka:
     status-page-url-path: /infoCatalogo
     health-check-url-path: /healthCatalogo
     metadata-map:
-       app-owner: cedser
-       description: test application for the expert course
+       app-owner: gerser
+       description: test application
 
